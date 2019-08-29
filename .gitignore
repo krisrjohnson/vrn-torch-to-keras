@@ -4,3 +4,7 @@
 *.png
 *.pb
 *.npy
+*.obj
+/objs
+/data
+.ipynb_checkpoints/
